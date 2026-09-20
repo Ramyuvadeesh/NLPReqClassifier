@@ -1,0 +1,19 @@
+DATASET CONFLICT DECISION
+=========================
+
+Requirement:
+Only registered customers can purchase streaming movies.
+
+Original PROMISE label:
+F
+
+Promise+ label:
+SE
+
+Decision:
+Keep the original PROMISE record (F).
+Discard the duplicate Promise+ record (SE).
+
+Reason:
+The original PROMISE dataset is treated as the authoritative
+baseline dataset for this independent expansion experiment.

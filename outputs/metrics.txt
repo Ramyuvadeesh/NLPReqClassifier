@@ -1,0 +1,25 @@
+HOLD-OUT EVALUATION
+============================================================
+
+Dataset Size : 624
+Training Samples : 499
+Testing Samples : 125
+
+TF-IDF Configuration
+max_df=0.95
+min_df=0.01
+max_features=2000
+ngram_range=(1,2)
+norm=l2
+
+Threshold Configuration
+General ratio = 0.80
+L / FT ratio = 0.75
+
+Accuracy = 0.696000
+Weighted Precision = 0.746554
+Weighted Recall = 0.696000
+Weighted F1 = 0.704188
+Macro Precision = 0.620512
+Macro Recall = 0.665669
+Macro F1 = 0.608428

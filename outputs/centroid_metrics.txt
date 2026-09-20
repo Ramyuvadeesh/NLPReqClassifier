@@ -1,0 +1,29 @@
+CATEGORY CENTROID EXPERIMENT
+======================================================================
+
+Dataset: PROMISE
+Dataset Size: 624
+Training Samples: 499
+Testing Samples: 125
+
+TF-IDF Configuration
+max_df=0.95
+min_df=0.01
+max_features=2000
+ngram_range=(1,2)
+norm=l2
+
+Threshold Configuration
+General ratio=0.80
+L/FT ratio=0.75
+
+Representation
+Mean TF-IDF vector per category
+
+Accuracy=0.512000
+Weighted Precision=0.674814
+Weighted Recall=0.512000
+Weighted F1=0.556863
+Macro Precision=0.427648
+Macro Recall=0.462034
+Macro F1=0.398584

@@ -1,0 +1,221 @@
+Category,Rank,Keyword,TF-IDF Score
+A,1,available,0.5387
+A,2,time,0.3155
+A,3,shall available,0.2954
+A,4,per,0.2626
+A,5,day,0.2479
+A,6,hour,0.1886
+A,7,product shall available,0.1837
+A,8,24 hour,0.1671
+A,9,24,0.1671
+A,10,year,0.1476
+A,11,per year,0.1253
+A,12,use,0.123
+A,13,per day,0.1102
+A,14,period,0.0985
+A,15,98,0.0985
+A,16,system shall,0.0951
+A,17,time system,0.0835
+A,18,99 time,0.0835
+A,19,online,0.0735
+A,20,budgeting,0.0735
+F,1,player,0.2199
+F,2,class,0.2154
+F,3,clinical,0.2139
+F,4,program,0.185
+F,5,allow,0.1768
+F,6,dispute,0.1732
+F,7,shall allow,0.166
+F,8,system shall,0.1553
+F,9,case,0.147
+F,10,lead,0.1411
+F,11,staff member shall,0.1293
+F,12,member shall,0.1293
+F,13,display,0.1233
+F,14,staff member,0.1233
+F,15,member,0.1233
+F,16,list,0.1203
+F,17,able,0.119
+F,18,information,0.1186
+F,19,dispute system,0.1156
+F,20,shall able,0.1118
+FT,1,operate,0.2304
+FT,2,malicious data,0.1954
+FT,3,shall continue operate,0.1954
+FT,4,continue operate,0.1954
+FT,5,dependent,0.1954
+FT,6,malicious,0.1954
+FT,7,failure,0.1954
+FT,8,preference,0.1954
+FT,9,product andor,0.1954
+FT,10,go,0.1954
+FT,11,continue,0.1718
+FT,12,shall continue,0.1718
+FT,13,andor,0.1718
+FT,14,input,0.1718
+FT,15,result,0.1536
+FT,16,website shall,0.1151
+FT,17,100,0.1151
+FT,18,shall remain,0.0977
+FT,19,product website,0.0977
+FT,20,unavailable,0.0977
+L,1,dispute,0.3588
+L,2,comply,0.3385
+L,3,case,0.2381
+L,4,specified,0.2128
+L,5,application must,0.2031
+L,6,dispute application must,0.2031
+L,7,must,0.185
+L,8,dispute case,0.1786
+L,9,requirement,0.1596
+L,10,standard,0.1441
+L,11,rule,0.1354
+L,12,product shall comply,0.1354
+L,13,shall comply,0.1354
+L,14,operating,0.1354
+L,15,shall meet,0.1354
+L,16,compliance,0.1354
+L,17,history,0.1354
+L,18,business rule,0.1354
+L,19,dispute application,0.131
+L,20,meet,0.1191
+LF,1,interface,0.3807
+LF,2,ship,0.2214
+LF,3,comply,0.2214
+LF,4,page,0.2094
+LF,5,look,0.1845
+LF,6,shot,0.1845
+LF,7,user interface,0.1622
+LF,8,display,0.1571
+LF,9,standard,0.1571
+LF,10,interface shall,0.1476
+LF,11,shall comply,0.1476
+LF,12,message,0.145
+LF,13,must,0.1345
+LF,14,ccr,0.1309
+LF,15,feel,0.1298
+LF,16,color,0.1298
+LF,17,contain,0.1298
+LF,18,professional,0.1107
+LF,19,look feel,0.1107
+LF,20,navigation,0.1107
+MN,1,new,0.2864
+MN,2,maintenance,0.2431
+MN,3,updated,0.1945
+MN,4,update,0.1911
+MN,5,change,0.1911
+MN,6,must,0.1772
+MN,7,wcs,0.1718
+MN,8,operate,0.1529
+MN,9,release,0.1529
+MN,10,integrate,0.1459
+MN,11,budget,0.1459
+MN,12,database,0.1254
+MN,13,every,0.1205
+MN,14,rf,0.1146
+MN,15,rf system,0.1146
+MN,16,able,0.1049
+MN,17,week,0.1035
+MN,18,product must,0.1035
+MN,19,map,0.0972
+MN,20,shall updated,0.0972
+O,1,interface,0.3124
+O,2,database,0.2656
+O,3,server,0.2062
+O,4,must,0.1986
+O,5,information,0.1719
+O,6,cardmember,0.1704
+O,7,able,0.1699
+O,8,dispute,0.1569
+O,9,application,0.156
+O,10,window,0.1453
+O,11,browser,0.1453
+O,12,management system,0.1453
+O,13,database management system,0.1453
+O,14,database management,0.1453
+O,15,product must,0.1375
+O,16,dispute application,0.125
+O,17,data,0.12
+O,18,dispute application shall,0.1142
+O,19,internet,0.1142
+O,20,merchant,0.1142
+PE,1,second,0.6308
+PE,2,time,0.2918
+PE,3,response,0.2853
+PE,4,minute,0.1842
+PE,5,longer,0.1622
+PE,6,within,0.1149
+PE,7,lead,0.111
+PE,8,returned,0.1081
+PE,9,take longer,0.1081
+PE,10,system shall,0.1067
+PE,11,shall take longer,0.0901
+PE,12,shall returned,0.0901
+PE,13,able,0.0875
+PE,14,shall take,0.085
+PE,15,product shall provide,0.085
+PE,16,administrator,0.0814
+PE,17,10,0.0814
+PE,18,complete,0.0793
+PE,19,search,0.0767
+PE,20,shall provide,0.0767
+SC,1,able,0.2283
+SC,2,year,0.2181
+SC,3,handle,0.2116
+SC,4,able handle,0.2116
+SC,5,product shall able,0.2047
+SC,6,shall able,0.1998
+SC,7,support,0.1712
+SC,8,system shall,0.1687
+SC,9,shall able handle,0.1587
+SC,10,number,0.1501
+SC,11,server,0.1501
+SC,12,expected,0.1395
+SC,13,10,0.1364
+SC,14,per,0.1247
+SC,15,process,0.1126
+SC,16,able support,0.1058
+SC,17,1000,0.1058
+SC,18,country,0.1058
+SC,19,year system shall,0.1058
+SC,20,target market,0.1058
+SE,1,access,0.4122
+SE,2,authorized,0.3424
+SE,3,information,0.2915
+SE,4,data,0.2149
+SE,5,authorized user,0.1826
+SE,6,supervisor,0.1435
+SE,7,system shall,0.1352
+SE,8,database,0.1178
+SE,9,prevent,0.1141
+SE,10,malicious,0.1141
+SE,11,dispute,0.1076
+SE,12,entered,0.1004
+SE,13,user shall,0.1004
+SE,14,able,0.0985
+SE,15,shall prevent,0.0913
+SE,16,update,0.0897
+SE,17,assigned,0.0803
+SE,18,user access,0.0803
+SE,19,company,0.0803
+SE,20,customer,0.0739
+US,1,use,0.3272
+US,2,able,0.2998
+US,3,user shall,0.2443
+US,4,user shall able,0.171
+US,5,successfully,0.1691
+US,6,minute,0.168
+US,7,within,0.1557
+US,8,90,0.151
+US,9,shall able,0.1384
+US,10,using,0.1133
+US,11,shall use,0.1128
+US,12,must,0.1071
+US,13,help,0.1068
+US,14,intuitive,0.1068
+US,15,collision estimator,0.1068
+US,16,page,0.1061
+US,17,system shall,0.0973
+US,18,collision,0.094
+US,19,case,0.094
+US,20,dispute case,0.094

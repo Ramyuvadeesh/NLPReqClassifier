@@ -1,0 +1,126 @@
+Requirement,Actual,Predicted,MaxSimilarity,TopSimilarity,SelectedCategories,Correct
+If the leads score falls within the medium average then it will be set for manual verification by an Enrollment Coordinator through the eleads system.,F,F,0.08912357082963544,0.08912357082963544,F,True
+The product shall prevent its data from incorrect data being introduced.,SE,SE,0.14781195597609065,0.14781195597609065,SE,True
+The website shall not be offensive to religious or ethnic groups.,LF,LF,0.08520907887767488,0.08520907887767488,LF,True
+The application shall be able to complete every user transaction within one fourth of a second of receiving the request over the network.,PE,PE,0.25944991537306905,0.25944991537306905,PE,True
+ Users should only have to navigate through a maximum of 4 pages  to create an account with the website.,US,LF,0.10586619856678683,0.10586619856678683,LF,False
+ All registered customer information shall be stored and maintained in the database  even after the customer cancels their account.,F,SE,0.15523151111584116,0.15523151111584116,SE,False
+The Disputes application must conform to the legal requirements as specified by Regulation E and Regulation Z that govern credit card disputes processing.,L,L,0.473389899851984,0.473389899851984,L,True
+The application shall have a downtime of at most 10 minutes per year.,A,PE,0.1333480556672471,0.1333480556672471,PE|A|SC,False
+ The System shall allow entering  storing and modifying product formulas.,F,F,0.13006902845787485,0.13006902845787485,F,True
+The website shall continue to operate if the payment gateway goes down.,FT,FT,0.16327546765504203,0.16327546765504203,FT,True
+The Disputes System shall provide update access capability for authorized users of the application.,F,SE,0.3422924507311426,0.3422924507311426,SE,False
+The product shall be expected to operate within the maximum maintenance budget for a minimum of 2 years.,MN,SC,0.2044361071620866,0.2044361071620866,SC,False
+The product shall ensure that only supervisors can view schedule of all callers.The product must ensure that supervisors are allowed to access advertise empty time slots.,SE,SE,0.26043357042688065,0.26043357042688065,SE,True
+The System shall be able to automatically backup business data and restore them on demand.,O,SC,0.13927227665379927,0.13927227665379927,SC,False
+ The product shall be available 24 hours per day  seven days per week.,A,A,0.4665131446083596,0.4665131446083596,A,True
+The response time shall be fast enough to maintain the flow of the game. The response time shall be no more than 2 seconds for 95% of responses and no more than 4% for the remaining responses.,PE,PE,0.4177199286031175,0.4177199286031175,PE,True
+ Clinical site information shall include (but not be limited to) the name of the site  contact person  and contact information.,F,F,0.21015807235869824,0.21015807235869824,F,True
+The system shall allow a Program Administrator/Nursing Staff Member to move a student from one clinical lab section to another clinical lab section corresponding to the same clinical class.,F,F,0.3115705373535282,0.3115705373535282,F,True
+The product shall be available for distribution via the Internet as a binary or ZIP file.,O,A,0.24633967948752883,0.24633967948752883,A,False
+ The server will support a maximum of 1 000 simultaneous users.,SC,SC,0.3862959782749405,0.3862959782749405,SC,True
+The system shall offer a display of all the Events in the exercise.,F,F,0.1139551743566632,0.1139551743566632,F,True
+Only users with Update access must be able to initiate dispute requests.,SE,SE,0.1771546140370507,0.1771546140370507,SE,True
+The product must be able to interface with various database management systems. The product shall communicate successfully with the database management system on 100% of all transactions.,O,O,0.2842202077251073,0.2842202077251073,O,True
+If a lead is scored to the high range the system will supply the lead data and score to the enterprise system.,F,F,0.12722601489718874,0.12722601489718874,F,True
+ The system shall be able to display a printable summary for individual clinical labs  which will include (but not be limited to) class name  class number  lab section  listing of students enrolled  instructor  day(s)  time  and location.,F,F,0.3133205880601689,0.3133205880601689,F,True
+The top 1/4 of the table will hold events that are to occur sequentially.,F,F,0.05942578531101696,0.05942578531101696,F,True
+ The system shall be responsive. At the DePaul TeleServices Center  when a supervisor uses the system to view a callers schedule  the system response time must be no more than 2 seconds 90% of the time and no more than 5 seconds the rest of the time.,PE,PE,0.5018433871071989,0.5018433871071989,PE,True
+The product shall provide Dynamic Change Support and Transparent resource addition.The product shall support Transparent Resource addition and Dynamic Change support to provide scalability and avoid service interruptions of more than 1 day.,PE,MN,0.20689403482966676,0.20689403482966676,MN,False
+The search radius shall be between 1 and 30 miles,F,F,0.05920785552337725,0.05920785552337725,F,True
+Application updates shall occur between 3AM and 6 AM CST on Wednesday morning during the middle of the NFL season.,MN,PE,0.0660856841089707,0.0660856841089707,PE,False
+The product shall display each type of ship in a grid using an image of the specific type of ship.,LF,F,0.17594183737136218,0.17594183737136218,F,False
+The WCS system shall use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization. All interfaces and reports will undergo usability tests by CCR users.,US,LF,0.17590954539122233,0.17590954539122233,LF,False
+The user shall be able to get driving directions to a selected property,F,US,0.15173904530576934,0.15173904530576934,US,False
+The product shall synchronize with the office system every hour.,PE,A,0.08366847751273292,0.08366847751273292,A|MN,False
+The number of mistakes noted by the students shall be decreased by 50% in the first year.,US,SC,0.188843762070876,0.188843762070876,SC,False
+ When both players have positioned their 5 ships on their defensive grids  the product shall define the status of each player for the first turn.,F,F,0.19612305496397398,0.19612305496397398,F,True
+The product shall comply with corporate User Interface Guidelines,LF,LF,0.25505509261958764,0.25505509261958764,LF,True
+The user shall select to view the preferred repair facility ratings.,F,F,0.12012885250109082,0.12012885250109082,F|SE,True
+The CMA report shall be returned no later 60 seconds after the user has entered the CMA report criteria.,PE,PE,0.18521682275646761,0.18521682275646761,PE,True
+Classes for a given cohort shall not conflict with regards to the time and day that they are offered.,F,F,0.17653348856026463,0.17653348856026463,F,True
+The system shall be able to display a report of needed classes for a given quarter for all cohorts of all programs for Program Administrators/Nursing Staff Membersï¿½ planning purposes.,F,F,0.3150146184777077,0.3150146184777077,F,True
+The Disputes System shall generate a User Report that details any new users that have been added and any changes to an existing userï¿½s access level.  The report will be reviewed for auditing purposes.,SE,SE,0.1492772787591027,0.1492772787591027,SE|F,True
+The product shall conform to the Americans with Disabilities Act.,US,L,0.07112872585078935,0.07112872585078935,L,False
+The PHP code will comply with PEAR standards.,L,L,0.18012824525070328,0.18012824525070328,L,True
+The System shall allow generation of Inventory Quantity Adjustment documents on demand.,F,F,0.12184396704311355,0.12184396704311355,F,True
+The product shall allow a user to identify himself or herself as a player.,F,F,0.1763314013762015,0.1763314013762015,F,True
+The system shall cater to 10 simultaneous users from 9am to 5pm.,SC,SC,0.24560576523878885,0.24560576523878885,SC,True
+ The Disputes System must provide a confirmation to the user upon the creation of ticket retrieval request that contains the following information; the dispute case number  the type of retrieval requested (copy  original or portfolio)  and the date that the merchant response is due.,F,F,0.24591052438371108,0.24591052438371108,F|L,True
+The search results shall be returned no later 30      seconds  after the user has entered the search criteria,PE,PE,0.24803551966965678,0.24803551966965678,PE,True
+ If the shot was marked as a miss  the product shall change the status of the offensive player to defensive,F,F,0.1526966211835113,0.1526966211835113,F|LF,True
+The product shall provide Error Tracking Services.The product shall help the System Administrators and DBAs to resolve transaction errors 99% of the time.,US,A,0.1308411148718322,0.1308411148718322,A,False
+The bottom 3/4 of the table will hold events that occur according to its relevance to current time.,F,F,0.07957423642027864,0.07957423642027864,F|PE,True
+ The product shall maintain the status of each player for a turn  either offensive or defensive.,F,F,0.13842594404261266,0.13842594404261266,F,True
+ All movies shall be streamed on demand  at any time of the day.,A,A,0.10485292780870076,0.10485292780870076,A,True
+Fit Criterion: Dr Susan Poslusny and Karen Sysol are the only people who shall have access to the final class section scheduling for the system that interfaces with CampusConnect.,SE,SE,0.155924069024834,0.155924069024834,SE,True
+The maintenance of the product will fall within the established corporate maintenance windows.,O,MN,0.11885211950488057,0.11885211950488057,MN,False
+All updates to data files or database must be initiated from the Disputes System.,SE,O,0.16450726676000568,0.16450726676000568,O|L,False
+ The system will notify affected parties when changes occur affecting specific students  including but not limited to changing a studentï¿½s status from full time to part time and moving a student to a different clinical section.,F,F,0.21971954466677435,0.21971954466677435,F,True
+The product shall display the grids within a circle as a view from a periscope.,LF,F,0.1657152636283677,0.1657152636283677,F,False
+ Product shall allow entering  storing and modifying product menus used by POS terminals.,F,F,0.09691995419506663,0.09691995419506663,F,True
+System shall let administrators generate unique pre-paid pins in under 2 minutes and generate an Excel file with the generated PINs.,PE,PE,0.21599477842210763,0.21599477842210763,PE,True
+The system shall help the user avoid making mistakes while scheduling classes and clinicals for the nursing students.,US,F,0.14777134854284976,0.14777134854284976,F|SC,False
+ The website should have an African feel  but should not alienate non-Africans.  The website should use animation on pages which are describing the services  to grab the users attention and encourage them to sign up.,LF,LF,0.17429098412444033,0.17429098412444033,LF,True
+Users shall feel satisfied using the product.  85% of all users will be satisfied with the product.,US,US,0.13806400111563183,0.13806400111563183,US,True
+The system shall allow a real estate agent to query MLS information,F,SE,0.1969446010798862,0.1969446010798862,SE|F,False
+Only registered realtors shall be able to access the system.,SE,US,0.14122377911964853,0.14122377911964853,US,False
+Website shall allow customers to add their own movie review for a selected movie.,F,F,0.14575454308861355,0.14575454308861355,F,True
+The product shall ensure that it can only be accessed by authorized users.  The product will be able to distinguish between authorized and unauthorized users in all access attempts,SE,SE,0.36193164172212183,0.36193164172212183,SE,True
+The system shall operate within the Windows XP Professional operating system.,O,O,0.120099032040606,0.120099032040606,O,True
+ When a game is ended  the product shall allow each player to remove himself or herself from the list of players.,F,F,0.20440778492144565,0.20440778492144565,F,True
+ When purchasing a streaming movie or pre-paid card via credit card  the processing time should have a maximum response time of 15 seconds.,PE,PE,0.39026137296914404,0.39026137296914404,PE,True
+The audit report shall be displayed to the user.,F,F,0.05495473546672443,0.05495473546672443,F|PE,True
+The product will function alongside server software on any operating system where the Java runtime can be installed.,O,O,0.12614209067990642,0.12614209067990642,O,True
+All screens created as part of the Disputes application must comply with corporate standards for interface creation.,LF,L,0.2957215357228185,0.2957215357228185,L,False
+Product installations and upgrades shall be handled by the middleware technology team within established launch time frames.,O,PE,0.10267608176915895,0.10267608176915895,PE|A,False
+The product shall operate in offline mode whenever internet connection is unavailable.,FT,MN,0.0997595402826883,0.0997595402826883,MN,False
+ System shall automatically update the main page of the website every Friday  and show the 4 latest movies that have been added to the website.,F,LF,0.11308562020972122,0.11308562020972122,LF,False
+Every registered user will have access to the productï¿½s support site via the Internet.  70% of registered users shall find a solution to their problem within 5 minutes of using the support site.,US,US,0.10468174897702497,0.10468174897702497,US|SE|PE,True
+ If the shot was marked as a hit  the product shall allow the offensive player to define a shot.,F,LF,0.17704648017050584,0.17704648017050584,LF|F,False
+Only authorized users shall have access to clinical site information.,SE,SE,0.40379472592142396,0.40379472592142396,SE,True
+ Aside from server failure  the software product shall achieve 99.99% up time.,A,A,0.1892470795114743,0.1892470795114743,A,True
+The product shall ensure that only company employees or external users with company-approved user IDs may have product access.  100% of all logons shall be by either company employees or external users with company-approved user IDs.,SE,SE,0.12571364850929934,0.12571364850929934,SE,True
+The product shall be easy to learn by Adjusters and Collision Estimators.  The product shall be learned with two days onsite training,US,US,0.29430952065897403,0.29430952065897403,US,True
+ Once a game has been initiated  the product shall make the players assigned to the game unavailable for selection from the list of players.,F,F,0.15514355571317234,0.15514355571317234,F,True
+ The notification of the game ending will include the reason the game is ended (i.e.  a player has won the game or a player has ended the game).,F,F,0.11821742687597159,0.11821742687597159,F,True
+The product shall adhere to the corporate Architecture guidelines,O,L,0.03800127267363926,0.03800127267363926,L|LF|A,False
+The audit report shall be available to other adjusters at later points in time.,F,A,0.2853565394924003,0.2853565394924003,A,False
+The product shall notify building personnel of equipment transport requests.,F,F,0.08498739814097706,0.08498739814097706,F|SE,True
+Product formula ingredients shall allow defining substitutionary ingredients.,F,F,0.10087116529889595,0.10087116529889595,F,True
+ A clinical lab section shall include the clinical site name  the class  instructor  day and time of the lab.,F,F,0.2749013853616142,0.2749013853616142,F,True
+ The product shall have security.The product shall provide authentication  and authorization.,SE,PE,0.08856295888749927,0.08856295888749927,PE,False
+System will allow customers to pay for a streaming movie with a pre-paid card.,F,F,0.09833731474673468,0.09833731474673468,F|PE|US,True
+The Disputes System will facilitate direct data entry of a dispute case via a user interface that supports real time responses to the users.,F,L,0.26335303096942125,0.26335303096942125,L,False
+The interface must summarize the data in a fashion thatï¿½s appealing to CCR management. Every report type must have at least one high level summary shown in the results dashboard/interface,LF,LF,0.15466830846777124,0.15466830846777124,LF|O,True
+All aspects of the website shall be accessed by a web browser over the Internet.,O,O,0.1305934489895097,0.1305934489895097,O,True
+The website will provide a help section with answers and solutions to common problems.,US,F,0.06066856826783,0.06066856826783,F|LF|PE,False
+The product shall comply with insurance regulations regarding claims processing.,L,L,0.2870825521389677,0.2870825521389677,L,True
+The language of the product shall accommodate all of the target market countries. 90% of survey respondents from each target market country will find that the language of the product is acceptable.,SC,US,0.22098547322789322,0.22098547322789322,US,False
+For leads that process longer than 25 seconds the system will record the event and duration,PE,PE,0.35322398796143173,0.35322398796143173,PE,True
+The product must be able to interface with various email servers. The product shall be able to send email.,O,O,0.20283925008850892,0.20283925008850892,O,True
+ The user interface shall have standard menus  buttons for navigation,LF,LF,0.24115209918310515,0.24115209918310515,LF,True
+ The Disputes System must provide a confirmation to the user upon the creation of a chargeback request. The confirmation must contain the following information; the dispute case number  the type of chargeback requested (pending or immediate)  and the date that the merchant response is due.,F,L,0.22113902608191816,0.22113902608191816,L|F,False
+The product shall ensure that only supervisors can enter a callerï¿½s schedule.The product must ensure that supervisors are allowed to access advertise empty time slots.,SE,SE,0.2499628350985604,0.2499628350985604,SE,True
+The adjuster shall be able to override the preferred repair facitlity on the estimate assignment.,F,F,0.12779834528697268,0.12779834528697268,F,True
+The Disputes System must prevent external users from requesting original receipts. Requests for original receipts are restricted to internal users.,F,F,0.10626903330529507,0.10626903330529507,F|L,True
+The product shall generate a CMA report in an acceptable time.,PE,PE,0.07954721298647341,0.07954721298647341,PE|FT,True
+ At the start of each turn  the product shall notify each player of his or her status.,F,F,0.10629019186494895,0.10629019186494895,F,True
+The system shall offer the ability to pause and resume the refresh of data.,F,SE,0.11135354832139843,0.11135354832139843,SE|F|SC,False
+Website must be fully operational with MSN TV2.,O,O,0.0850913470822892,0.0850913470822892,O|L,True
+Students added to a cohort shall be eligible for the cohortï¿½s Program of Study.,F,F,0.20168793538365148,0.20168793538365148,F,True
+The system shall filter data by: Venues and Key Events.,F,SE,0.13313731776875104,0.13313731776875104,SE|FT,False
+The website shall prevent its data from being corrupted when incorrect data is entered in.,SE,SE,0.17433764793197476,0.17433764793197476,SE,True
+A primary database will be used to store cached data for active users.,O,O,0.15364860758999685,0.15364860758999685,O,True
+ For each shot  the product shall mark the shot as a hit or miss on the defensive grid of the defensive player.,F,F,0.18337622271419135,0.18337622271419135,F,True
+A Program Administrator/Nursing Staff Member shall be able to add a new nursing student to the system.,F,F,0.28993339902021237,0.28993339902021237,F,True
+Promotional updates to the website should take a day to update.,MN,MN,0.09996125162030109,0.09996125162030109,MN,True
+A new user must be able to be added to the system within 10 minutes.  90% of new users are able to log into the system within 10 minutes.,US,PE,0.17954721914130917,0.17954721914130917,PE|US,False
+Program Administrators/Nursing Staff Members shall be able to cancel a clinical lab section only if there are no students registered for that clinical lab section.,F,F,0.27857748072083754,0.27857748072083754,F,True
+ When a game is ended  the product shall notify the players that the game is ended.,F,F,0.08593458871680973,0.08593458871680973,F,True
+ An employee will be able to successfully use the product within a few minutes.  After informally navigating the product for less than 15 minutes  users shall be able to successfully setup meetings and reserve conference rooms.,US,US,0.30329564776539536,0.30329564776539536,US,True
+ For each turn  the product shall allow the offensive player to define a shot.,F,F,0.16045728675388204,0.16045728675388204,F,True
+The product shall increase productivity of Collision Estimators. 80% of the Collision Estimators shall agree their productivity has increase within 1 month of using the product.,US,US,0.10974319387528628,0.10974319387528628,US,True
+	Users shall be able to view at least 25 NFL player statistics and points on each page.,US,US,0.19634981618611894,0.19634981618611894,US,True
+ The product shall be able to process 10 000 transactions per hour within two years of its launch.  This number will increase to 20 000 by Release 2.,SC,SC,0.40492293724740663,0.40492293724740663,SC,True
+The user shall enter new ratings based on the audit report,F,SE,0.08882303872141399,0.08882303872141399,SE|F|US,False

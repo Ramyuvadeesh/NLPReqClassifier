@@ -1,0 +1,23 @@
+======================================================================
+INDEPENDENT DATASET EXPANSION EXPERIMENT
+======================================================================
+
+Dataset: PROMISE + Promise+
+Final dataset size: 3529
+Test size: 20%
+Random state: 42
+Training samples: 2823
+Testing samples: 706
+Vocabulary size: 3716
+Threshold ratio: 0.8
+
+NOTE:
+This is an independent dataset-expansion experiment and is NOT the original Iteration 2 or Iteration 3 dataset from the IEEE paper.
+
+Accuracy              : 0.6346
+Weighted Precision    : 0.7368
+Weighted Recall       : 0.6346
+Weighted F1           : 0.6593
+Macro Precision       : 0.4615
+Macro Recall          : 0.6490
+Macro F1              : 0.5215
