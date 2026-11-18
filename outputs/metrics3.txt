@@ -1,0 +1,60 @@
+ITERATION 1 PAPER-STYLE REPRODUCTION
+============================================================
+
+Dataset: Original PROMISE
+Usable records: 624
+Categories: 11
+
+Preprocessing:
+- Lowercase
+- Non-alphanumeric removal
+- Tokenization
+- Stop-word removal
+- Lemmatization
+
+TF-IDF:
+- ngram_range=(1,3)
+- min_df=2
+- max_df=0.95
+- norm=l2
+
+Thresholds:
+- General=0.80
+- L/FT=0.75
+
+Evaluation type:
+Paper-style full-data reproduction.
+This is NOT a leakage-free hold-out evaluation.
+
+Metrics:
+Accuracy: 0.950617
+WeightedPrecision: 0.956505
+WeightedRecall: 0.950617
+WeightedF1: 0.950601
+MacroPrecision: 0.949072
+MacroRecall: 0.946970
+MacroF1: 0.942252
+FallbackPredictions: 80
+TotalRequirements: 81
+
+
+Classification Report
+============================================================
+
+              precision    recall  f1-score   support
+
+           A       1.00      0.83      0.91         6
+           F       0.95      1.00      0.97        18
+          FT       1.00      1.00      1.00         1
+           L       0.67      1.00      0.80         2
+          LF       1.00      1.00      1.00         5
+          MN       1.00      0.75      0.86         4
+           O       0.91      1.00      0.95        10
+          PE       1.00      1.00      1.00         7
+          SC       1.00      1.00      1.00         4
+          SE       1.00      0.92      0.96        12
+          US       0.92      0.92      0.92        12
+
+    accuracy                           0.95        81
+   macro avg       0.95      0.95      0.94        81
+weighted avg       0.96      0.95      0.95        81
