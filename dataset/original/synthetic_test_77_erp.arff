@@ -1,0 +1,84 @@
+@RELATION synthetic_nfr_77_erp
+
+@ATTRIBUTE ProjectID numeric
+@ATTRIBUTE RequirementText string
+@ATTRIBUTE class {F,A,L,LF,MN,O,PE,SC,SE,US,FT}
+
+@DATA
+600,'The application must allow a project owner to identify themselves in the logistics workflow within the secure environment.',F
+601,'The application must allow a project owner to identify themselves in the logistics workflow across all regions.',F
+602,'The project management module shall record all the resources that have been allocated in the primary module.',F
+603,'The application must allow a project owner to identify themselves in the logistics workflow for external audits.',F
+604,'The ERP system shall display the supply chain search results in a vertical table under normal conditions.',F
+605,'The ERP system shall display the supply chain search results in a vertical table in the secondary view.',F
+606,'The project management module shall record all the resources that have been allocated during initialization.',F
+607,'The ERP system shall display the supply chain search results in a vertical table for the administrator.',F
+608,'The project management module shall record all the resources that have been allocated during standard operations.',F
+609,'The project management module shall record all the resources that have been allocated within the secure environment.',F
+610,'The ERP system shall display the supply chain search results in a vertical table during standard operations.',F
+611,'The project management module shall record all the resources that have been allocated in the reporting tool.',F
+612,'The project management module shall record all the resources that have been allocated for the administrator.',F
+613,'The ERP system shall display the supply chain search results in a vertical table for historical tracking.',F
+614,'The project management module shall record all the resources that have been allocated for compliance tracking.',F
+615,'The system manages the shipment tracking data during standard operations.',F
+616,'The ERP tracks the logistics shipments across all active vendors upon user request.',F
+617,'The ERP tracks the logistics shipments across all active vendors within the secure environment.',F
+618,'The system manages the shipment tracking data for historical tracking.',F
+619,'90% of new supply chain analysts shall be able to start the display within 90 minutes in the main interface.',US
+620,'90% of new supply chain analysts shall be able to start the display within 90 minutes in the user dashboard.',US
+621,'90% of new supply chain analysts shall be able to start the display within 90 minutes for logging purposes.',US
+622,'90% of new supply chain analysts shall be able to start the display within 90 minutes during standard operations.',US
+623,'90% of new supply chain analysts shall be able to start the display within 90 minutes for the client application.',US
+624,'90% of new supply chain analysts shall be able to start the display within 90 minutes for the current session.',US
+625,'90% of new supply chain analysts shall be able to start the display within 90 minutes within the secure environment.',US
+626,'The project management user interface shall be intuitive and easy to learn across all regions.',US
+627,'90% of new supply chain analysts shall be able to start the display within 90 minutes for immediate processing.',US
+628,'The project management user interface shall be intuitive and easy to learn in the primary module.',US
+629,'90% of new supply chain analysts shall be able to start the display within 90 minutes for active users.',US
+630,'The ERP dashboard should be straightforward for vendors to navigate during standard operations.',US
+631,'The ERP dashboard should be straightforward for vendors to navigate in the user dashboard.',US
+632,'The ERP dashboard should be straightforward for vendors to navigate for historical tracking.',US
+633,'The system shall interface directly with the existing enterprise resource central server during the nightly batch.',O
+634,'The ERP product shall operate seamlessly within the corporate Windows XP environment during the nightly batch.',O
+635,'The system shall interface directly with the existing enterprise resource central server in the secondary view.',O
+636,'The ERP product shall operate seamlessly within the corporate Windows XP environment during initialization.',O
+637,'The system shall interface directly with the existing enterprise resource central server in the main interface.',O
+638,'The ERP product shall operate seamlessly within the corporate Windows XP environment during standard operations.',O
+639,'The ERP product shall operate seamlessly within the corporate Windows XP environment in the primary module.',O
+640,'The system shall interface directly with the existing enterprise resource central server across all regions.',O
+641,'The system shall interface directly with the existing enterprise resource central server during initialization.',O
+642,'The supply chain web application must be fully compatible with HTML browsers without degrading performance.',O
+643,'The system shall interface directly with the existing enterprise resource central server under normal conditions.',O
+644,'The supply chain web application must be fully compatible with HTML browsers for historical tracking.',O
+645,'The supply chain web server must be capable of supporting 5,000 simultaneous users in the main interface.',SC
+646,'The supply chain web server must be capable of supporting 5,000 simultaneous users within the secure environment.',SC
+647,'The ERP system shall handle up to 10,000 concurrent database connections across regions as specified in the architecture.',SC
+648,'The supply chain web server must be capable of supporting 5,000 simultaneous users as specified in the architecture.',SC
+649,'The ERP system shall handle up to 10,000 concurrent database connections across regions for the administrator.',SC
+650,'The ERP system shall handle up to 10,000 concurrent database connections across regions during standard operations.',SC
+651,'The supply chain web server must be capable of supporting 5,000 simultaneous users in the reporting tool.',SC
+652,'The ERP system shall handle up to 10,000 concurrent database connections across regions upon user request.',SC
+653,'The ERP must encrypt all supply chain vendor passwords in the database within the secure environment.',SE
+654,'Only authenticated project managers with administrator privileges shall have access in the main interface.',SE
+655,'Only authenticated project managers with administrator privileges shall have access during standard operations.',SE
+656,'Only authenticated project managers with administrator privileges shall have access as specified in the architecture.',SE
+657,'Only authenticated project managers with administrator privileges shall have access upon user request.',SE
+658,'The ERP must encrypt all supply chain vendor passwords in the database for compliance tracking.',SE
+659,'The ERP application must load the logistics search results in under 3 seconds for external audits.',PE
+660,'The maximum response time for any database query shall be no more than 5 seconds for logging purposes.',PE
+661,'The ERP application must load the logistics search results in under 3 seconds during peak load.',PE
+662,'The system updates the project status metrics swiftly for the current session.',PE
+663,'The system updates the project status metrics swiftly for historical tracking.',PE
+664,'The supply chain user interface must maintain a professional appearance and standard layout under normal conditions.',LF
+665,'The supply chain user interface must maintain a professional appearance and standard layout for historical tracking.',LF
+666,'The ERP application shall conform to the corporate branding and color scheme for the administrator.',LF
+667,'The ERP application shall conform to the corporate branding and color scheme during peak load.',LF
+668,'The supply chain user interface must maintain a professional appearance and standard layout in the main interface.',LF
+669,'The ERP system shall automatically restore user preferences in the event of a failure in the reporting tool.',FT
+670,'The supply chain module must operate in offline mode whenever internet connection is unavailable for the administrator.',FT
+671,'The ERP system shall automatically restore user preferences in the event of a failure as specified in the architecture.',FT
+672,'The project management system shall achieve 99.9% up time during business hours across all regions.',A
+673,'The project management system shall achieve 99.9% up time during business hours in the user dashboard.',A
+674,'The project management system shall conform to the legal requirements for financial tracking for historical tracking.',L
+675,'The ERP product must comply with Sarbanes-Oxley auditing regulations for supply chain data for the client application.',L
+676,'The ERP code must be highly configurable for use with various enterprise database systems for external audits.',MN

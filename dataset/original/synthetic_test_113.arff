@@ -1,0 +1,120 @@
+@RELATION synthetic_nfr_113
+
+@ATTRIBUTE ProjectID numeric
+@ATTRIBUTE RequirementText string
+@ATTRIBUTE class {{F,A,L,LF,MN,O,PE,SC,SE,US,FT}}
+
+@DATA
+200,'The system shall display the search results in a vertical table for the current session.',F
+201,'The system shall allow the user to view existing dispute cases for logging purposes.',F
+202,'The product shall record all the equipment that has been reserved as specified in the architecture.',F
+203,'The system shall display the search results in a vertical table in the main interface.',F
+204,'The application must allow a user to identify himself or herself as a player during standard operations.',F
+205,'The application must allow a user to identify himself or herself as a player for compliance tracking.',F
+206,'The system shall display the search results in a vertical table within the secure environment.',F
+207,'The product shall record all the equipment that has been reserved for external audits.',F
+208,'The application must allow a user to identify himself or herself as a player for the current session.',F
+209,'The application must allow a user to identify himself or herself as a player within the secure environment.',F
+210,'The product shall record all the equipment that has been reserved upon user request.',F
+211,'The application must allow a user to identify himself or herself as a player during peak load.',F
+212,'The system shall display the search results in a vertical table for active users.',F
+213,'The system shall generate an audit report based on the available data for the administrator.',F
+214,'The system shall allow the user to view existing dispute cases as specified in the architecture.',F
+215,'The product shall record all the equipment that has been reserved for the administrator.',F
+216,'The system shall display the search results in a vertical table during standard operations.',F
+217,'The system shall generate an audit report based on the available data without degrading performance.',F
+218,'The system shall allow the user to view existing dispute cases across all regions.',F
+219,'The system shall display the search results in a vertical table for the client application.',F
+220,'The system shall generate an audit report based on the available data in the reporting tool.',F
+221,'The system shall display the search results in a vertical table in the user dashboard.',F
+222,'The system shall display the search results in a vertical table in the reporting tool.',F
+223,'The system shall allow the user to view existing dispute cases for historical tracking.',F
+224,'The application must allow a user to identify himself or herself as a player across all regions.',F
+225,'90% of new users shall be able to start the display within 90 minutes during initialization.',US
+226,'The user interface shall be intuitive and easy to learn in the primary module.',US
+227,'90% of new users shall be able to start the display within 90 minutes in the secondary view.',US
+228,'The user interface shall be intuitive and easy to learn for logging purposes.',US
+229,'The user interface shall be intuitive and easy to learn in the user dashboard.',US
+230,'The system shall require no formal training for standard data entry tasks upon user request.',US
+231,'The system shall require no formal training for standard data entry tasks for active users.',US
+232,'The system shall require no formal training for standard data entry tasks across all regions.',US
+233,'90% of new users shall be able to start the display within 90 minutes in the main interface.',US
+234,'The system shall require no formal training for standard data entry tasks during initialization.',US
+235,'The user interface shall be intuitive and easy to learn under normal conditions.',US
+236,'90% of new users shall be able to start the display within 90 minutes in the reporting tool.',US
+237,'90% of new users shall be able to start the display within 90 minutes for active users.',US
+238,'The application must provide clear error messages to avoid making mistakes in the user dashboard.',US
+239,'The system shall require no formal training for standard data entry tasks for historical tracking.',US
+240,'The system shall require no formal training for standard data entry tasks in the primary module.',US
+241,'90% of new users shall be able to start the display within 90 minutes in the primary module.',US
+242,'The system shall require no formal training for standard data entry tasks in the user dashboard.',US
+243,'The application shall protect against unauthorized access and malicious attacks during standard operations.',SE
+244,'Only authenticated users with administrator privileges shall have access for immediate processing.',SE
+245,'The application shall protect against unauthorized access and malicious attacks within the secure environment.',SE
+246,'The product shall ensure that it can only be accessed by authorized users in the user dashboard.',SE
+247,'The product shall ensure that it can only be accessed by authorized users as specified in the architecture.',SE
+248,'The application shall protect against unauthorized access and malicious attacks as specified in the architecture.',SE
+249,'Only authenticated users with administrator privileges shall have access for the client application.',SE
+250,'The application shall protect against unauthorized access and malicious attacks for the client application.',SE
+251,'The product shall ensure that it can only be accessed by authorized users for immediate processing.',SE
+252,'The product shall ensure that it can only be accessed by authorized users across all regions.',SE
+253,'Only authenticated users with administrator privileges shall have access as specified in the architecture.',SE
+254,'The product shall ensure that it can only be accessed by authorized users during standard operations.',SE
+255,'The system must encrypt all user passwords in the database without degrading performance.',SE
+256,'Only authenticated users with administrator privileges shall have access for historical tracking.',SE
+257,'Only authenticated users with administrator privileges shall have access in the main interface.',SE
+258,'The product shall ensure that it can only be accessed by authorized users under normal conditions.',SE
+259,'The system must encrypt all user passwords in the database in the user dashboard.',SE
+260,'The product shall ensure that it can only be accessed by authorized users for external audits.',SE
+261,'The system shall interface directly with the existing central server in the reporting tool.',O
+262,'The product shall operate seamlessly within the Windows XP operating system in the main interface.',O
+263,'The system shall interface directly with the existing central server for historical tracking.',O
+264,'The system shall interface directly with the existing central server without degrading performance.',O
+265,'The system shall interface directly with the existing central server for compliance tracking.',O
+266,'The web application must be fully compatible with HTML browsers upon user request.',O
+267,'The product shall operate seamlessly within the Windows XP operating system for the client application.',O
+268,'The system shall interface directly with the existing central server for external audits.',O
+269,'The web application must be fully compatible with HTML browsers for external audits.',O
+270,'The product shall operate seamlessly within the Windows XP operating system for historical tracking.',O
+271,'The web application must be fully compatible with HTML browsers as specified in the architecture.',O
+272,'The system shall interface directly with the existing central server for active users.',O
+273,'The product shall operate seamlessly within the Windows XP operating system under normal conditions.',O
+274,'The system shall interface directly with the existing central server during the nightly batch.',O
+275,'The product shall operate seamlessly within the Windows XP operating system without degrading performance.',O
+276,'The system shall interface directly with the existing central server in the secondary view.',O
+277,'The product shall be available 24 hours a day, 7 days a week in the primary module.',A
+278,'The product shall be available 24 hours a day, 7 days a week for immediate processing.',A
+279,'The product shall be available 24 hours a day, 7 days a week during standard operations.',A
+280,'Scheduled maintenance outages will not exceed the scheduled maintenance windows during the nightly batch.',A
+281,'The product shall be available 24 hours a day, 7 days a week in the reporting tool.',A
+282,'The product shall be available 24 hours a day, 7 days a week as specified in the architecture.',A
+283,'Scheduled maintenance outages will not exceed the scheduled maintenance windows for active users.',A
+284,'The system shall achieve 99.9% up time during normal business hours for external audits.',A
+285,'Scheduled maintenance outages will not exceed the scheduled maintenance windows for compliance tracking.',A
+286,'Scheduled maintenance outages will not exceed the scheduled maintenance windows during initialization.',A
+287,'The product shall be available 24 hours a day, 7 days a week during initialization.',A
+288,'The user interface must maintain a professional appearance and standard layout in the user dashboard.',LF
+289,'All screens shall comply with corporate standards for interface creation for historical tracking.',LF
+290,'The user interface must maintain a professional appearance and standard layout upon user request.',LF
+291,'All screens shall comply with corporate standards for interface creation upon user request.',LF
+292,'The application shall conform to the corporate branding and color scheme for logging purposes.',LF
+293,'The application shall conform to the corporate branding and color scheme during standard operations.',LF
+294,'The maximum response time for any database query shall be no more than 5 seconds for the current session.',PE
+295,'The system shall render the graphics fast to keep up-to-date data in the display in the reporting tool.',PE
+296,'The application must load the search results in under 3 seconds for immediate processing.',PE
+297,'The application must load the search results in under 3 seconds for the current session.',PE
+298,'The application must load the search results in under 3 seconds during initialization.',PE
+299,'The system shall allow administrators to easily integrate new map data in the primary module.',MN
+300,'The code must be highly configurable for use with various database management systems during standard operations.',MN
+301,'The code must be highly configurable for use with various database management systems for the administrator.',MN
+302,'The code must be highly configurable for use with various database management systems for external audits.',MN
+303,'The code must be highly configurable for use with various database management systems during peak load.',MN
+304,'The architecture must be able to support multiple remote users during the nightly batch.',SC
+305,'The web server must be capable of supporting 5,000 simultaneous users in the reporting tool.',SC
+306,'The web server must be capable of supporting 5,000 simultaneous users for the client application.',SC
+307,'The architecture must be able to support multiple remote users for immediate processing.',SC
+308,'The system shall conform to the legal requirements as specified by Regulation E for logging purposes.',L
+309,'The system shall conform to the legal requirements as specified by Regulation E for compliance tracking.',L
+310,'The product must comply with Sarbanes-Oxley auditing regulations without degrading performance.',L
+311,'The system shall automatically restore user preferences in the event of a failure in the main interface.',FT
+312,'The application must operate in offline mode whenever internet connection is unavailable across all regions.',FT

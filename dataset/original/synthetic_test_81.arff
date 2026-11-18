@@ -1,0 +1,88 @@
+@RELATION synthetic_nfr_81
+
+@ATTRIBUTE ProjectID numeric
+@ATTRIBUTE RequirementText string
+@ATTRIBUTE class {F,A,L,LF,MN,O,PE,SC,SE,US,FT}
+
+@DATA
+500,'The system shall generate an audit report based on the available data in the user dashboard.',F
+501,'The product shall record all the equipment that has been reserved under normal conditions.',F
+502,'The product shall record all the equipment that has been reserved for logging purposes.',F
+503,'The product shall record all the equipment that has been reserved as specified in the architecture.',F
+504,'The system shall display the search results in a vertical table during peak load.',F
+505,'The system shall generate an audit report based on the available data for external audits.',F
+506,'The system shall display the search results in a vertical table under normal conditions.',F
+507,'The system shall generate an audit report based on the available data within the secure environment.',F
+508,'The system shall generate an audit report based on the available data for the client application.',F
+509,'The product shall record all the equipment that has been reserved across all regions.',F
+510,'The system shall generate an audit report based on the available data in the main interface.',F
+511,'The product shall record all the equipment that has been reserved for immediate processing.',F
+512,'The system shall allow the user to view existing dispute cases during standard operations.',F
+513,'The system shall display the search results in a vertical table during the nightly batch.',F
+514,'The system shall allow the user to view existing dispute cases in the user dashboard.',F
+515,'The system shall display the search results in a vertical table for compliance tracking.',F
+516,'The system shall display the search results in a vertical table upon user request.',F
+517,'The system shall generate an audit report based on the available data in the primary module.',F
+518,'90% of new users shall be able to start the display within 90 minutes as specified in the architecture.',US
+519,'The user interface shall be intuitive and easy to learn during initialization.',US
+520,'The user interface shall be intuitive and easy to learn for the client application.',US
+521,'90% of new users shall be able to start the display within 90 minutes under normal conditions.',US
+522,'The user interface shall be intuitive and easy to learn for external audits.',US
+523,'The system shall require no formal training for standard data entry tasks for active users.',US
+524,'The user interface shall be intuitive and easy to learn without degrading performance.',US
+525,'The user interface shall be intuitive and easy to learn for active users.',US
+526,'90% of new users shall be able to start the display within 90 minutes in the main interface.',US
+527,'90% of new users shall be able to start the display within 90 minutes during standard operations.',US
+528,'90% of new users shall be able to start the display within 90 minutes for historical tracking.',US
+529,'The tool must be pleasant for the staff members during standard operations.',US
+530,'The system must encrypt all user passwords in the database in the secondary view.',SE
+531,'The application shall protect against unauthorized access and malicious attacks for the current session.',SE
+532,'Only authenticated users with administrator privileges shall have access for the administrator.',SE
+533,'The system must encrypt all user passwords in the database for external audits.',SE
+534,'Only authenticated users with administrator privileges shall have access within the secure environment.',SE
+535,'The system must encrypt all user passwords in the database for historical tracking.',SE
+536,'The system must encrypt all user passwords in the database upon user request.',SE
+537,'Only authenticated users with administrator privileges shall have access in the reporting tool.',SE
+538,'Only authenticated users with administrator privileges shall have access as specified in the architecture.',SE
+539,'Only authenticated users with administrator privileges shall have access during initialization.',SE
+540,'Only authenticated users with administrator privileges shall have access in the primary module.',SE
+541,'Stop intruders from seeing the hidden files as specified in the architecture.',SE
+542,'The system shall interface directly with the existing central server during initialization.',O
+543,'The system shall interface directly with the existing central server for the client application.',O
+544,'The product shall operate seamlessly within the Windows XP operating system under normal conditions.',O
+545,'The web application must be fully compatible with HTML browsers without degrading performance.',O
+546,'The product shall operate seamlessly within the Windows XP operating system without degrading performance.',O
+547,'The product shall operate seamlessly within the Windows XP operating system in the secondary view.',O
+548,'The product shall operate seamlessly within the Windows XP operating system for active users.',O
+549,'The web application must be fully compatible with HTML browsers as specified in the architecture.',O
+550,'The product shall operate seamlessly within the Windows XP operating system in the reporting tool.',O
+551,'The tool works on the office machines for the administrator.',O
+552,'The maximum response time for any database query shall be no more than 5 seconds for logging purposes.',PE
+553,'The maximum response time for any database query shall be no more than 5 seconds without degrading performance.',PE
+554,'The maximum response time for any database query shall be no more than 5 seconds for active users.',PE
+555,'The application must load the search results in under 3 seconds for external audits.',PE
+556,'The maximum response time for any database query shall be no more than 5 seconds for the current session.',PE
+557,'The application must load the search results in under 3 seconds for the administrator.',PE
+558,'It needs to load up very quickly within the secure environment.',PE
+559,'The system shall achieve 99.9% up time during normal business hours in the user dashboard.',A
+560,'The system shall achieve 99.9% up time during normal business hours for compliance tracking.',A
+561,'The system shall achieve 99.9% up time during normal business hours in the reporting tool.',A
+562,'The product shall be available 24 hours a day, 7 days a week for active users.',A
+563,'The product shall be available 24 hours a day, 7 days a week across all regions.',A
+564,'The machine should not turn off for the client application.',A
+565,'The user interface must maintain a professional appearance and standard layout upon user request.',LF
+566,'The application shall conform to the corporate branding and color scheme in the secondary view.',LF
+567,'The application shall conform to the corporate branding and color scheme for historical tracking.',LF
+568,'The user interface must maintain a professional appearance and standard layout without degrading performance.',LF
+569,'Make the screen look nice during initialization.',LF
+570,'The system shall handle up to 10,000 concurrent database connections within the secure environment.',SC
+571,'The web server must be capable of supporting 5,000 simultaneous users in the user dashboard.',SC
+572,'The system shall handle up to 10,000 concurrent database connections upon user request.',SC
+573,'The web server must be capable of supporting 5,000 simultaneous users upon user request.',SC
+574,'New software updates shall be deployable within 10 minutes during peak load.',MN
+575,'The code must be highly configurable for use with various database management systems for external audits.',MN
+576,'New software updates shall be deployable within 10 minutes in the main interface.',MN
+577,'New software updates shall be deployable within 10 minutes during the nightly batch.',MN
+578,'The product must comply with Sarbanes-Oxley auditing regulations during peak load.',L
+579,'The system shall conform to the legal requirements as specified by Regulation E in the secondary view.',L
+580,'The application must operate in offline mode whenever internet connection is unavailable in the main interface.',FT
